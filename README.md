@@ -1,8 +1,8 @@
 # AutoHotKey Scripts
 
-### Various scripts and executables I've created for AutoHotKey.
+## Various scripts and executables I've created for AutoHotKey.
 
-#### Descriptions
+### Descriptions:
 
 **FixCtrlBackspace**
 This adds ordinary Ctrl+Backspace functionality (backspace word) to Microsoft Explorer windows and Notepad.
@@ -17,7 +17,7 @@ Much like it sounds, this makes the Caps Lock button function as another escape 
 This alters a desired window to become Always on Top and Removes the title bar from the window. It was created to facilitate watching YouTube videos while working, but can be used for any application. To use, enable the script. Hold down the Windows key, then left click the active window. To return the window to its original state, hold the Windows key, then right click the window.
 Usage note: You can also toggle 'Always on top' without altering the title bar. For this, simply hold the Windows key and right click.
 
-#### Notes
+### Notes:
 - None of these will display the AHK taskbar icon without modification. If you need to stop them, you will have to use the task manager.
 - The executables can be used if you do not wish to install AutoHotKey
 - If you need the scripts to work in applications that are running as administrator, run the executables as administrator.
